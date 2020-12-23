@@ -1,2 +1,2 @@
 # Note-Making App
-An app to add notes. and delete later if not in use.
+An app to add notes. And delete later if not in use.
